@@ -9973,9 +9973,6 @@
     };
 
     var addBogus = function (dom, node) {
-      if (NodeType.isElement(node) && dom.isBlock(node) && !node.innerHTML && !Env.ie) {
-        node.innerHTML = '<br data-mce-bogus="1" />';
-      }
       return node;
     };
     var resolveCaretPositionBookmark = function (dom, bookmark) {
