@@ -3,7 +3,7 @@
 	"version": "5.2.2",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/tinymce/tinymce-dist.git"
+		"url": "https://github.com/Innovdata-damien/tinymce-dist.git"
 	},
 	"description": "Web based JavaScript HTML WYSIWYG editor control.",
 	"author": "Ephox Corporation",
@@ -18,6 +18,6 @@
 		"html"
 	],
 	"bugs": {
-		"url": "https://github.com/tinymce/tinymce/issues"
+		"url": "https://github.com/Innovdata-damien/tinymce-dist/issues"
 	}
 }
